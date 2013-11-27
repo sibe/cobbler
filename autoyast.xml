@@ -12,7 +12,6 @@
 	<drive>
            <use>all</use>
 	   <type config:type="symbol">CT_DISK</type>
-	   <!--initialize config:type="boolean">true</initialize-->
        </drive>
     </partitioning>
     <software>
